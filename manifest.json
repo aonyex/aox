@@ -1,0 +1,56 @@
+{
+	"name": "AONYEX EXCHANGE",
+	"short_name": "AONYEX",
+	"description": "Blockchain social marketing network",
+    "icons": [
+        {
+            "src": "assets/image/logo_200x200.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/logo_150x150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/logo_100x100.png",
+            "sizes": "100x100",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m75.png",
+            "sizes": "75x75",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m70.png",
+            "sizes": "70x70",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m65.png",
+            "sizes": "65x65",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m55.png",
+            "sizes": "55x55",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/m50.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#aa4400",
+    "background_color": "#aa4400",
+    "start_url": "/ots/?dapp=aonyex",
+    "display": "standalone"
+}
